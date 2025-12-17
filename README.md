@@ -21,6 +21,7 @@ This project aims to identify the reasons behind the high employee attrition rat
 <img width="1344" height="759" alt="PowerBI_HR_Analytics_page2" src="https://github.com/user-attachments/assets/b42da2ea-a85b-4485-8a6b-298d8a254cea" />
 
 # HR_Analytics_Tableau_Report:
+
 <img width="1868" height="745" alt="Tableau_page1" src="https://github.com/user-attachments/assets/497f0425-2c0e-4db9-8e09-3e8a9d76ade4" />
 <img width="1859" height="743" alt="Tableau_page2" src="https://github.com/user-attachments/assets/138255a8-97a1-4776-9b37-488d2acd47c5" />
 <img width="1857" height="730" alt="Tableau_page3" src="https://github.com/user-attachments/assets/dbe05104-7286-471d-a6c3-d34fac1e9e85" />
