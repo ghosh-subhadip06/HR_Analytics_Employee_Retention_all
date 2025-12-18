@@ -1,5 +1,5 @@
 # HR Analysis: Employee Retention
-:
+
 # Introduction:<br>
 The HR Analytics project involves analyzing employee-related data to gain insights into workforce behavior and performance. It helps organizations understand factors affecting hiring, productivity, and employee retention, enabling better HR decisions and improved overall efficiency.
 # Purpose:<br>
